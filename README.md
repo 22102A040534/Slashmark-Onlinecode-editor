@@ -22,7 +22,8 @@ Create a component to display the output.jsx
 Integrate the CodeEditor and Output components in your main App.js.jsx
 9. Styling
 Add some basic styling in App.css.css
-Deployment:
+
+#Deployment:
 I Deployed backend server on a platform like Heroku
 Frontend on a platform like Netlify or Vercel.
 Now we have our online code editor.
